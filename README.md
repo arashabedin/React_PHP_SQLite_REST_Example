@@ -1,7 +1,7 @@
 # React_PHP_SQLite_REST_Example
 This repository provides you a minimal setup that integrates React with a basic PHP server using RESTfull api; and SQLite as the database (included in the repository).
 
-# To Run the php server
+# To Run the PHP server
 From the root directory <br />
 -> cd server <br />
 -> php -S 127.0.0.1:8080
